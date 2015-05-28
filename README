@@ -1,0 +1,6 @@
+Simple hack that sends dialog history from the Echo app to a server that parses and acts on the phrase.
+
+The javascript snippet needs to be injected on the Echo app dialog history webpage. Exact method depends on the browser. 
+For example, in Chrome you'd need to open the javascript console found under tools. 
+
+I've copied much of this from various Internet sources and adapted it for my home configuration. 
